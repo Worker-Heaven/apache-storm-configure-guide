@@ -1,4 +1,4 @@
-# How to configure apache storm that runs storm-starter on Mac
+# How to configure apache storm on Mac
 
 ## Prerequisite
 > Apache storm (1.2.2) <br>
